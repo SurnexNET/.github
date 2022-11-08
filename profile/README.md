@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="600" src="https://surnex.net/assets/logo.png">
+  <img width="250" height="250" src="https://surnex.net/assets/logo.png">
 </p>
 
 
