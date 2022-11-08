@@ -12,7 +12,3 @@ Dein Citybuild Server mit Herz
 
 - [@TruaYT](https://github.com/TruaYT)
 - [@AndrewCMD](https://github.com/AndrewCMD)
-
-## Bugreport
-
-- Gehe ins Repo: Surnex Bugreport und befolge die Schritte dort!
