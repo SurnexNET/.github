@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img width="250" height="250" src="https://surnex.net/assets/logo.png">
+  <img width="300" height="300" src="https://surnex.net/assets/logo.png">
 </p>
 
 
@@ -12,3 +13,21 @@ Dein Citybuild Server mit Herz
 
 - [@TruaYT](https://github.com/TruaYT)
 - [@AndrewCMD](https://github.com/AndrewCMD)
+
+## Web Stack
+
+**Client:** TailwindCSS
+
+**Server:** Node, Laravel
+
+
+## Ingame Stack
+
+**Server:** JSON, RestAPI, PaperMC
+
+
+
+
+
+
+
