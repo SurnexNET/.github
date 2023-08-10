@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img width="300" height="300" src="https://surnex.net/assets/logo.png">
+  <img width="300" height="300" src="[https://surnex.net/assets/logo.png](https://truayt.de/projekt/surnex/logo.png)">
 </p>
 
 
 # Surnex.net
 
-Dein Citybuild Server mit Herz
+Neues Projekt
 
 
 ## Authoren
@@ -23,7 +23,7 @@ Dein Citybuild Server mit Herz
 
 ## Ingame Stack
 
-**Server:** JSON, RestAPI, PaperMC
+**Server:** PaperMC, WaterFallMC, MongoDB, Redis, JSON, GSON, NETTY
 
 
 
