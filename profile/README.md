@@ -19,7 +19,7 @@ Neues Projekt
 
 **Client:** TailwindCSS, VueJS
 
-**Server:** Node, InteriaJS , Laravel
+**Server:** Node, InertiaJS , Laravel
 
 
 ## Ingame Stack
