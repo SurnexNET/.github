@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" height="300" src="https://truayt.de/projekt/surnex/logo.png">
+  <img width="300" height="300" src="https://dev.surnex.de/branding/logo.png">
 </p>
 
 
