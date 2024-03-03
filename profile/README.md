@@ -13,12 +13,13 @@ Neues Projekt
 
 - [@TruaYT](https://github.com/TruaYT)
 - [@AndrewCMD](https://github.com/AndrewCMD)
+- [@Weapie](https://github.com/Weapie)
 
 ## Web Stack
 
-**Client:** TailwindCSS
+**Client:** TailwindCSS, VueJS
 
-**Server:** Node, Laravel
+**Server:** Node, InteriaJS , Laravel
 
 
 ## Ingame Stack
