@@ -13,7 +13,6 @@ Neues Projekt
 
 - [@TruaYT](https://github.com/TruaYT)
 - [@AndrewCMD](https://github.com/AndrewCMD)
-- [@Weapie](https://github.com/Weapie)
 
 ## Web Stack
 
