@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" height="300" src="https://dev.surnex.de/branding/logo.png">
+  <img width="300" height="300" src="https://surnex.net/assets/logo.png">
 </p>
 
 
@@ -12,18 +12,15 @@ Neues Projekt
 ## Authoren
 
 - [@TruaYT](https://github.com/TruaYT)
-- [@AndrewCMD](https://github.com/AndrewCMD)
 
 ## Web Stack
 
-**Client:** TailwindCSS, VueJS
-
-**Server:** Node, InertiaJS , Laravel
+**Client:** TailwindCSS, HTML
 
 
 ## Ingame Stack
 
-**Server:** PaperMC, WaterFallMC, MongoDB, Redis, JSON, GSON, NETTY
+**Server:** PaperMC, WaterFallMC, MongoDB, Redis, JSON, GSON, NETTY, SimpleCloud
 
 
 
