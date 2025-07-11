@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" height="300" src="https://surnex.net/assets/logo.png">
+  <img width="300" height="300" src="https://api.surnex.net/img/logo.png">
 </p>
 
 
